@@ -1,0 +1,14 @@
+# capricorn-user 7.0 NRD90M V9.2.2.0.NAGCNEK release-keys
+- manufacturer: xiaomi
+- platform: msm8996
+- codename: capricorn
+- flavor: capricorn-user
+- release: 7.0
+- id: NRD90M
+- incremental: V9.2.2.0.NAGCNEK
+- tags: release-keys
+- fingerprint: Xiaomi/capricorn/capricorn:7.0/NRD90M/V9.2.2.0.NAGCNEK:user/release-keys
+- is_ab: false
+- brand: Xiaomi
+- branch: capricorn-user-7.0-NRD90M-V9.2.2.0.NAGCNEK-release-keys
+- repo: xiaomi_capricorn_dump
